@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Ardinger]]></title>
         <description><![CDATA[Ardinger]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ardinger/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Dec 2015 19:18:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 29 Dec 2015 19:29:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ardinger/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6a95731d-9617-4823-b808-5ab8634d73f9.png">]]></description>
+            <link>https://thegrid.ai/ardinger/72786967-09c9-4a0d-b17f-659e6eedc202/index.html</link>
+            <guid isPermaLink="false">72786967-09c9-4a0d-b17f-659e6eedc202</guid>
+            <pubDate>Tue, 29 Dec 2015 19:29:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Coming in 2016 - Econic]]></title>
-            <description><![CDATA[<article><h1>Coming in 2016 - Econic</h1><p>Econic.co - Evolving Innovation for the Enterprise</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b104ab7b502f6c719658cfd130ea23f56968373d.png"></article>]]></description>
-            <link>undefinedcoming-in-2016-econic/index.html</link>
+            <description><![CDATA[<article><h1>Coming in 2016 - Econic</h1><p>In 2016 we'll be launching Econic to help enterprises accelerate their innovation initiatives. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7366c5acdd54b680e92687aa181a9c2935e42f2d.png"></article>]]></description>
+            <link>https://thegrid.ai/ardinger/coming-in-2016-econic/index.html</link>
             <guid isPermaLink="false">4425db6a-ecd5-4648-9517-d927cef31163</guid>
             <pubDate>Tue, 29 Dec 2015 19:18:22 GMT</pubDate>
         </item>
